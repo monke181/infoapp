@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "592815014671",
+    "project_id": "druminfoapp",
+    "storage_bucket": "druminfoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592815014671:android:ea3e5bad4f058b3e8a347a",
+        "android_client_info": {
+          "package_name": "com.druminfoapp.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQvf4DHnhMgJlSo0d6yGdcLxRSVdGOSVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
