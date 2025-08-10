@@ -1,4 +1,1 @@
-# information_app
-
-A new Flutter project.
-# infoapp
+spotify type app where users can upload files of music 
